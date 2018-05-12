@@ -28,6 +28,8 @@ creator:
     - http://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
     - http://fr.wikipedia.org/wiki/Remy_de_Gourmont
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45920#Very-Woman-Sixtine--A-Cerebral-Novel
 gutenberg_issued: '2014-06-09'
 gutenberg_type: Text
 identifiers:
