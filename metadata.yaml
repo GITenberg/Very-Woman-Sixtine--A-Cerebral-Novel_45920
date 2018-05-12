@@ -1,0 +1,44 @@
+_repo: Very-Woman-Sixtine--A-Cerebral-Novel_45920
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Barrets, J. L.
+    gutenberg_agent_id: '47320'
+    url: http://www.gutenberg.org/2009/agents/47320
+covers:
+- cover_type: archival
+  image_path: 45920-h/images/titlepage_cover.jpg
+creator:
+  author:
+    agent_name: Gourmont, Remy de
+    aliases:
+    - Le Danois, N.
+    - De Gourmont, Remy
+    - Coffe, M.
+    - L'Ymagier
+    - Drexelius, J.
+    - Gourmont, Rémy de
+    - Gourmont, Remye
+    - Gourmont, Remi de
+    birthdate: 1858
+    deathdate: 1915
+    gutenberg_agent_id: '6996'
+    url: http://www.gutenberg.org/2009/agents/6996
+    wikipedia:
+    - http://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
+    - http://fr.wikipedia.org/wiki/Remy_de_Gourmont
+description: ''
+gutenberg_issued: '2014-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45920'
+  lccn: '22016149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into English'
+title: 'Very Woman (Sixtine): A Cerebral Novel'
+url: http://www.gutenberg.org/ebooks/45920
